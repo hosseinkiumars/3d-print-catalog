@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "براکت مهندسی",
+    "category": "engineering",
+    "description": "براکت کاربردی مناسب پروژه‌های فنی و مهندسی.",
+    "fulldesc": "",
+    "images": [ "/images/products/gearbox/gearbox (1).webp", "/images/products/gearbox/gearbox (2).webp" ]
+  },
+  {
+    "id": 2,
+    "name": "دست آرایشگر",
+    "category": "art",
+    "description": "مجسمه دکوری دست آرایشگر مناسب دکور آرایشگاه.",
+    "fulldesc": "با مجسمه دکوری دست آرایشگر شلف های دکور آرایشگاه خود را متناسب با فعالیت خود تزیین کنید. چشم ها خیره به شلف شما...",
+    "images": [
+      "/images/products/barber_hand/barber_hand (1).webp",
+      "/images/products/barber_hand/barber_hand (2).webp",
+      "/images/products/barber_hand/barber_hand (3).webp",
+      "/images/products/barber_hand/barber_hand (4).webp"
+    ]
+  }
+]
