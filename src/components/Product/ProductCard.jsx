@@ -35,7 +35,7 @@ function ProductCard({ product }) {
 
         overflow: "visible",
 
-        transition: "transform 220ms ease",
+        transition: "transform 1000ms ease",
 
         "&:hover": {
           transform: "translateY(-4px)",
@@ -68,7 +68,7 @@ function ProductCard({ product }) {
             objectFit: "cover",
 
             transition:
-              "transform 450ms cubic-bezier(0.2, 0.7, 0.2, 1)",
+              "transform 2000ms cubic-bezier(0.2, 0.7, 0.2, 1)",
 
             ".MuiCard-root:hover &": {
               transform: "scale(1.04)",

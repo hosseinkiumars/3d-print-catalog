@@ -57,25 +57,6 @@ function Home() {
                     mb: 3,
                   }}
                 >
-                  <Box
-                    sx={{
-                      width: 32,
-                      height: 2,
-                      backgroundColor:
-                        "secondary.main",
-                    }}
-                  />
-
-                    <Typography
-                        variant="overline"
-                        sx={{
-                            color: "secondary.main",
-                            fontWeight: 700,
-                            letterSpacing: "0.04em",
-                        }}
-                        >
-                        گالری سه‌بعدی چاپ
-                    </Typography>
                 </Box>
 
                 <Typography

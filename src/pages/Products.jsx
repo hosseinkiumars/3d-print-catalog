@@ -191,13 +191,14 @@ function Products() {
                 alignItems="center"
                 sx={{ mb: 3 }}
               >
-                <Typography
+               {/* تعداد محصولات دسته */}
+                {/* <Typography
                   variant="body2"
                   color="text.secondary"
                 >
                   {filteredProducts.length}{" "}
                   محصول
-                </Typography>
+                </Typography> */}
               </Stack>
 
               {filteredProducts.length ===

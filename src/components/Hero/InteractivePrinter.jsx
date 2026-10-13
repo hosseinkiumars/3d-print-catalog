@@ -49,7 +49,7 @@ function WireCube({ targetRotation }) {
      * واکنش سریع‌تر
      */
 
-    const smoothness = 0.06;
+    const smoothness = 0.05;
 
     group.current.rotation.x +=
       (targetRotation.current.x -
