@@ -14,6 +14,8 @@ import {
   Menu as MenuIcon,
 } from "@mui/icons-material";
 
+import InstagramIcon from '@mui/icons-material/Instagram';
+
 import {
   Link,
   useLocation,
@@ -65,6 +67,13 @@ function Header() {
             minHeight: "72px !important",
           }}
         >
+          <IconButton
+            component={Link}
+            to="https://instagram.com/chop3d?xtok=MWdxa2x4YXBrbXlsNg%3D%3D"
+            color="secondary"
+          >
+            <InstagramIcon />
+          </IconButton>
           {/* Brand */}
           <Box
             component={Link}
@@ -87,7 +96,6 @@ function Header() {
                   "secondary.main",
               }}
             />
-
             <Typography
               sx={{
                 fontSize: "1.05rem",
